@@ -1,0 +1,18 @@
+{
+    "name": "uniconnect/kit-sso",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Uniconnect\\KitSso\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nguyen Huu Nghia",
+            "email": "79639572+nghianhdev@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.62"
+    }
+}
